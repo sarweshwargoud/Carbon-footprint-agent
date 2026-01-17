@@ -139,7 +139,5 @@ AI + Sustainability Explorer 🌱
 
 ```
 
----
 
-You can paste this directly into GitHub README.
-```
+
