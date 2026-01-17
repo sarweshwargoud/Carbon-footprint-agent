@@ -1,0 +1,19 @@
+Electricity generated in India emits approximately 0.82 kilograms of carbon dioxide (CO2) per kilowatt-hour (kWh) due to heavy dependence on coal-based power plants.
+Solar electricity produces less than 0.05 kilograms of CO2 per kWh, mainly from manufacturing and installation of solar panels.
+Wind energy produces around 0.02 kilograms of CO2 per kWh, making it one of the cleanest energy sources.
+Petrol combustion releases approximately 2.31 kilograms of CO2 per liter burned in vehicles.
+Diesel fuel emits around 2.68 kilograms of CO2 per liter when burned in engines.
+Liquefied Petroleum Gas (LPG) produces about 2.98 kilograms of CO2 per kilogram used for cooking.
+Compressed Natural Gas (CNG) emits around 2.75 kilograms of CO2 per kilogram consumed.
+Coal produces about 2.42 kilograms of CO2 per kilogram when burned for energy.
+One kilometer of travel by a petrol car emits about 0.21 kilograms of CO2 per passenger.
+One kilometer of travel by a diesel car emits approximately 0.18 kilograms of CO2 per passenger.
+Bus travel produces about 0.05 kilograms of CO2 per passenger-kilometer.
+Train travel produces around 0.01 kilograms of CO2 per passenger-kilometer, making it one of the cleanest transport options.
+Domestic air travel produces approximately 0.15 kilograms of CO2 per passenger-kilometer.
+A vegetarian diet generates roughly 2 kilograms of CO2 per person per day.
+A mixed or non-vegetarian diet generates approximately 5 kilograms of CO2 per person per day due to livestock emissions and feed production.
+Plastic production and disposal emits around 6 kilograms of CO2 per kilogram of plastic.
+Paper production emits approximately 1.5 kilograms of CO2 per kilogram of paper.
+Electronic waste (e-waste) produces up to 20 kilograms of CO2 per kilogram because of mining, smelting, and manufacturing processes.
+Water supply and wastewater treatment emits approximately 0.34 kilograms of CO2 per cubic meter of water processed.

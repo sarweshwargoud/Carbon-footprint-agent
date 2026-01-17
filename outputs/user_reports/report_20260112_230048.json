@@ -1,0 +1,20 @@
+{
+    "breakdown": {
+        "electricity": 246.0,
+        "transport": 92.4,
+        "food": 60.0,
+        "waste": 30.0,
+        "water": 3.4,
+        "monthly_total": 431.8,
+        "yearly_total": 5181.6
+    },
+    "percentages": {
+        "electricity": 56.97,
+        "transport": 21.4,
+        "food": 13.9,
+        "waste": 6.95,
+        "water": 0.79
+    },
+    "highest_source": "electricity",
+    "timestamp": "2026-01-12 23:00:48.369144"
+}
