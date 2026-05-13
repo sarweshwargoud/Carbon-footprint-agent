@@ -8,7 +8,7 @@
 ## 🚀 Project Highlights
 - 📊 Real CO₂ Calculation (Monthly & Yearly)
 - 🔍 Emission Breakdown by Source
-- 🤖 AI Agent for Reduction Advice
+- 🤖 AI Agent for Reduction Advice.
 - 📚 RAG-based Knowledge Retrieval
 - 🌍 SDG 12 & SDG 13 Aligned
 - 🛡 Responsible & Explainable AI
